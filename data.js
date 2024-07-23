@@ -1,34 +1,32 @@
+
 var data = [{
     country: "USA",
-    value: 2025
+    value: 2025,
+    visits: 725,
+    icon: "https://www.amcharts.com/wp-content/uploads/flags/united-states.svg",
+
 }, {
     country: "China",
-    value: 1882
+    value: 1882,
+    visits: 602,
+    icon: "https://www.amcharts.com/wp-content/uploads/flags/china.svg",
+
 }, {
     country: "Japan",
-    value: 1809
+    value: 1809,
+    visits: 509,
+    icon: "https://www.amcharts.com/wp-content/uploads/flags/japan.svg",
+
 }, {
     country: "Germany",
-    value: 1322
+    value: 1322,
+    visits: 322,
+    icon: "https://www.amcharts.com/wp-content/uploads/flags/germany.svg",
+
 }, {
     country: "UK",
-    value: 1122
-}, {
-    country: "France",
-    value: 1114
-}, {
-    country: "India",
-    value: 984
-}, {
-    country: "Spain",
-    value: 711
-}, {
-    country: "Netherlands",
-    value: 665
-}, {
-    country: "South Korea",
-    value: 443
-}, {
-    country: "Canada",
-    value: 441
-}];
+    value: 1122,
+    visits: 625,
+    icon: "https://www.amcharts.com/wp-content/uploads/flags/united-kingdom.svg",
+
+},];
